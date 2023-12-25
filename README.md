@@ -44,6 +44,7 @@
     </a>
 </div>
 
+<!---
 <div align="center">
   <a href="">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyaa-k&theme=react&line_height=40&hide=css" alt="Riyaa-k" />
@@ -56,12 +57,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavpatel0208&show_icons=true&locale=en" alt="abhinavpatel0208" /></p> -->
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavpatel0208&" alt="abhinavpatel0208" /></p>-->
-
+<!--
 ### 🔝 Top Contributed Repo
-<!--![](https://github-contributor-stats.vercel.app/api?username=abhinavpatel0208&limit=5&theme=flat&combine_all_yearly_contributions=true)-->
+![](https://github-contributor-stats.vercel.app/api?username=abhinavpatel0208&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 <div align="center">
   <a href="">
     <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Riyaa-k&limit=5&combine_all_yearly_contributions=true&theme=react&line_height=40&hide=css" alt="Riyaa-k" />
   </a>
-</div>
+</div>-->
