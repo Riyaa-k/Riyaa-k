@@ -23,9 +23,9 @@
 # 💻 Technologies & Tools :
 *Front-end*: HTML5, CSS3, JavaScript (ES6+), React <Br/>
 *Back-end*: Node.js <Br/>
-*Database*: MongoDB, MySQLL <Br/>
+*Database*: MongoDB, MySQL <Br/>
 *Version Control*: Git, GitHub <Br/>
-*Deployment*: Heroku, Netlify <Br/>
+*Deployment*: Cyclic , Netlify <Br/>
 *Other*: Python, Bootstrap <Br/>
 
 # 💻 Tech Stack:
